@@ -1,0 +1,13 @@
+MANUAL DE SOPORTE TECNOLÓGICO
+
+Horario y canales
+La mesa de ayuda atiende de lunes a viernes de 8:00 a.m. a 6:00 p.m. Los incidentes críticos también pueden reportarse por teléfono fuera de horario. El portal de autoservicio es el canal recomendado para solicitudes normales.
+
+Niveles de prioridad
+Los incidentes urgentes tienen un tiempo objetivo de primera respuesta de 2 horas. Los casos de prioridad alta deben recibir respuesta en 8 horas. La prioridad media tiene un objetivo de 24 horas y la prioridad baja de 72 horas.
+
+Acceso remoto
+Para conectarse a la VPN, el colaborador debe utilizar su correo corporativo, la contraseña vigente y el segundo factor de autenticación. Después de cinco intentos fallidos, la cuenta se bloquea durante 30 minutos. El equipo de soporte nunca solicita contraseñas por correo electrónico.
+
+Protección de datos
+Los documentos con información confidencial deben almacenarse únicamente en repositorios corporativos aprobados. No está permitido compartir datos de clientes mediante cuentas personales. Todo incidente de seguridad debe notificarse inmediatamente al equipo de respuesta.

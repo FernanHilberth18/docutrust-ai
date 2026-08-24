@@ -1,0 +1,22 @@
+[
+  {
+    "question": "¿Cuál es el horario de la mesa de ayuda?",
+    "should_answer": true,
+    "expected_terms": ["lunes a viernes", "8:00", "6:00"]
+  },
+  {
+    "question": "¿Cuánto tarda la primera respuesta de un incidente urgente?",
+    "should_answer": true,
+    "expected_terms": ["2 horas"]
+  },
+  {
+    "question": "¿Qué se necesita para conectarse a la VPN?",
+    "should_answer": true,
+    "expected_terms": ["correo corporativo", "segundo factor"]
+  },
+  {
+    "question": "¿Cuál es el presupuesto anual del departamento?",
+    "should_answer": false,
+    "expected_terms": []
+  }
+]

@@ -1,0 +1,12 @@
+services:
+  docutrust:
+    build: .
+    ports:
+      - "8010:8010"
+    environment:
+      DOCUTRUST_DATA_DIR: /app/.data
+    volumes:
+      - docutrust_data:/app/.data
+
+volumes:
+  docutrust_data:
